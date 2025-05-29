@@ -2,9 +2,8 @@
 File:    frogger.py
 Author:  Vidal Bickersteth
 Date:    11/22/2024
-Section: 16-DIS(1383)
-E-mail:  vidalb1@umbc.edu
-Description: This program simulates the real frogger game on a more basic scale.
+E-mail:  vidalbickersteth@gmail.com
+Description: This program simulates the real Frogger game on a more basic scale.
 """
 import os
 root, directories, files = next(os.walk('.'))
