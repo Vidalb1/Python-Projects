@@ -1,5 +1,5 @@
 """
-    Reference for the Internet Project
+    Reference for the Internet Project 
 """
 
 import random
@@ -9,7 +9,7 @@ def spider_web(web_map, starting_place, destination):
     """
         this is a helper function that sets the visited to false for all of the nodes in the spider web and then
         calls the spider web recursive function that does the search.
-    :param web_map: this is the
+    :param web_map: this is the web map
     :param starting_place: the place where we start in the spider web
     :param destination: the destination we are trying to reach
     :return: the path that comes out of the actual searching recursive function
