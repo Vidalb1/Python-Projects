@@ -2,8 +2,7 @@
 File:    the_internet.py
 Author:  Vidal Bickersteth
 Date:    12/10/2024
-Section: 16-DIS(1383)
-E-mail:  vidalb1@umbc.edu
+E-mail:  vidalbickersteth@gmail.com
 Description: This program simulates the internet server. 
 """
 
