@@ -1,8 +1,5 @@
 """
-    spider webbing for the purpose of learning a bit about how to do the recursions in the project 3.
-
-    The code I present is not the only way to do this kind of thing, but it's essentially what I want you to understand
-        and be able to reproduce during the coding of the project.
+    Reference for the Internet Project
 """
 
 import random
